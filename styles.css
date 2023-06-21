@@ -1,0 +1,29 @@
+{
+ margin: 0;
+ padding: 0;
+ box-sizing :border-box;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+header {
+    background-color: antiquewhite;
+}
+
+#name {
+    display: flex;
+     justify-content: center;
+}
+
+#connecter {
+    display: flex;
+     
+    align-items: end;
+     
+}
+ /**
+#part_4 {
+    display: flex;
+    justify-content: end;
+}
